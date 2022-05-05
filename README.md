@@ -1,1 +1,1 @@
-# Geant4--IC
+# Geant4-IC
