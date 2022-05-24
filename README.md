@@ -16,7 +16,7 @@ libxerces-c-dev qt5-default
                 
                 
 cmake -DCMAKE_INSTALL_PREFIX=../geant4.10.06-install \          %LOCAL INSTALL%
--DGEANT4_INSTALL_DATADIR=../data \                      %LOCATION ARCHIVES GEANT4%             
+-DGEANT4_INSTALL_DATADIR=../data \                      %FILES LOCATION GEANT4%             
 -DGEANT4_USE_GDML=ON \
 -DGEANT4_USE_QT=ON \
 -DGEANT4_USE_RAYTRACER_X11=ON \
